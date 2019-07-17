@@ -1,0 +1,4 @@
+[debug] [typelevelsandbox-build] Classpath dependencies List()
+[debug] [typelevelsandbox-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'typelevelsandbox-build' to '/home/choct155/projects/sbtProjects/typelevelsandbox/project/.bloop/typelevelsandbox-build.json'
+[success] Generated .bloop/typelevelsandbox-build.json
